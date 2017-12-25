@@ -23,13 +23,13 @@ set -g @plugin 'dedenbangkit/tmux-gitstatus'
 Clone the repo anywhere you want:
 
 ```console
-$ git clone https://github.com/kechol/tmux-git-status ~/.tmux-git-status
+$ git clone https://github.com/dedenbangkit/tmux-gitstatus ~/.tmux-gitstatus
 ```
 
 Add this line to the bottom of `.tmux.conf`:
 
 ```tmux
-run-shell ~/.tmux-git-status/git_status.tmux
+run-shell ~/.tmux-gitstatus/git_status.tmux
 ```
 
 Reload TMUX environment:
