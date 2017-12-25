@@ -1,5 +1,7 @@
 # Tmux git status
 
+clone from https://github.com/kechol/tmux-git-status with custom modifications
+
 [tmux-git-status](https://github.com/kechol/tmux-git-status) is a tmux plugin that enables displaying git status on your tmux status line.
 
 ![tmux_git_status](https://github.com/kechol/tmux-git-status/raw/master/screenshots/tmux_git_status.png)
@@ -12,7 +14,7 @@
 Add plugin to the list of TPM plugins in `.tmux.conf`:
 
 ```tmux
-set -g @plugin 'kechol/tmux-git-status'
+set -g @plugin 'dedenbangkit/tmux-gitstatus'
 ```
 
 
