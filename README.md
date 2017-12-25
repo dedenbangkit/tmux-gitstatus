@@ -73,6 +73,8 @@ set -g @git_status_behind_symbol '↓' # default: '-'
 
 
 ## Credits
+Original Repository
+- [kechol/tmux-git-status](https://github.com/kechol/tmux-git-status)
 
 Take inspiration from:
 
